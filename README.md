@@ -36,6 +36,7 @@
 </div>
 <div align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
 </div>
 <div align="center">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>

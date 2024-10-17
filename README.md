@@ -31,6 +31,10 @@
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white"/>  
 </div>
 <div align="center">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+  <img alt="Naver Cloud" src="https://img.shields.io/badge/Naver%20Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+</div>
+<div align="center">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>

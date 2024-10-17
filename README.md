@@ -49,3 +49,10 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 </div>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img alt="OneNote" src="https://img.shields.io/badge/Microsoft%20OneNote-7719AA.svg?&style=for-the-badge&logo=Microsoft%20OneNote&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?&style=for-the-badge&logo=Obsidian&logoColor=white"/>
+</div>

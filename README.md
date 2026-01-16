@@ -52,6 +52,9 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 </div>
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
 <h3 align="center">📚 Memo 📚</h3>
 <div align="center">

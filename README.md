@@ -55,6 +55,9 @@
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+<div align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+</div>
 
 <h3 align="center">📚 Memo 📚</h3>
 <div align="center">

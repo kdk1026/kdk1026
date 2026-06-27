@@ -65,3 +65,12 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?&style=for-the-badge&logo=Obsidian&logoColor=white"/>
 </div>
+
+<h3 align="center">⏳ Old ⏳</h3>
+<div align="center">
+  <a href="https://github.com/kdk1026-spring3">kdk1026-spring3</a>
+  <span> | </span>
+  <a href="https://github.com/kdk1026-spring4">kdk1026-spring4</a>
+</div>
+</div>
+
